@@ -3,7 +3,7 @@
 ### Ссылка на colab
 https://colab.research.google.com/drive/1rkh9LTjdhWXzfEFQ9a0T_ZY32Cw93OEA?usp=sharing
 
-### Таблица по геномам
+### Геномы и Z-DNA
 
 |  Образец    | Кол. последовательностей | Длина генома  | Кол. генов | Доля генов | Кол. Z-dna>500| Общая длина Z-dna>500 |
 |:-----------:|:------------|:----------------|:------------------|:-------------- |---|---|
@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1rkh9LTjdhWXzfEFQ9a0T_ZY32Cw93OEA?usp=sh
 
 ![Alt text](/imgs/zdna.png?raw=true "Optional Title")
 
-### Таблица по кластерам
+###  Кластеры и Z-DNA
 
 Всего выявлено 3637 кластеров.
 
