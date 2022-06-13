@@ -31,7 +31,7 @@ https://colab.research.google.com/drive/1rkh9LTjdhWXzfEFQ9a0T_ZY32Cw93OEA?usp=sh
 | 127 | 7 | ABC transporter ATP-binding protein | В начале и конце гена | 11321 |
 | 2143 | 7 | ABC transporter ATP-binding protein | В основном в конце и немного в начале | 23660 |
 
-Выравнивание производилось с помощью [muscle](https://www.ebi.ac.uk/Tools/msa/muscle/. "MUSCLE 3.8"):
+Выравнивание производилось с помощью [MUSCLE 3.8](https://www.ebi.ac.uk/Tools/msa/muscle/. "MUSCLE 3.8"):
 
 Кластер 1990:
 ![Alt text](/imgs/1990.png?raw=true "Optional Title")
