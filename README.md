@@ -23,13 +23,13 @@ https://colab.research.google.com/drive/1rkh9LTjdhWXzfEFQ9a0T_ZY32Cw93OEA?usp=sh
 
 Были выбраны следующие из них:
 
-| Кластер | Кол. генов | Функция | расположение Z-DNA | ср. знач. Z-DNA score |
+| Кластер | Кол. генов | Функция | ср. знач. Z-DNA score |
 |:-----------:|:------------|:----------------|:------------------|:-------------- |
-| 1990 | 7 | thioredoxin-disulfide reductase activity | В начале и второй половине гена | 11590 |
-| 1461 | 8 | ATP-binding | Преимущественно в конце, немного в начале | 8003 |
-| 1843 | 7 | gluconokinase, Carbohydrate transport and metabolism | В основном в середине гена | 9943 |
-| 127 | 7 | ABC transporter ATP-binding protein | В начале и конце гена | 11321 |
-| 2143 | 7 | ABC transporter ATP-binding protein | В основном в конце и немного в начале | 23660 |
+| 1990 | 7 | thioredoxin-disulfide reductase activity | 10331 |
+| 1461 | 8 | ATP-binding | 8005 |
+| 1843 | 7 | gluconokinase, Carbohydrate transport and metabolism | 8831 |
+| 127 | 7 | ABC transporter ATP-binding protein | 10295 |
+| 2143 | 7 | ABC transporter ATP-binding protein | 20922 |
 
 Выравнивание производилось с помощью [MUSCLE 3.8](https://www.ebi.ac.uk/Tools/msa/muscle/. "MUSCLE 3.8"):
 
