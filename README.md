@@ -24,7 +24,7 @@ https://colab.research.google.com/drive/1rkh9LTjdhWXzfEFQ9a0T_ZY32Cw93OEA?usp=sh
 Были выбраны следующие из них:
 
 | Кластер | Кол. генов | Функция | ср. знач. Z-DNA score |
-|:-----------:|:------------|:----------------|:------------------|:-------------- |
+|:-----------:|:------------|:----------------|:------------------|
 | 1990 | 7 | thioredoxin-disulfide reductase activity | 10331 |
 | 1461 | 8 | ATP-binding | 8005 |
 | 1843 | 7 | gluconokinase, Carbohydrate transport and metabolism | 8831 |
