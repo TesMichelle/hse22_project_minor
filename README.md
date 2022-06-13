@@ -31,16 +31,20 @@ https://colab.research.google.com/drive/1rkh9LTjdhWXzfEFQ9a0T_ZY32Cw93OEA?usp=sh
 | 127 | 7 | ABC transporter ATP-binding protein | В начале и конце гена | 11321 |
 | 2143 | 7 | ABC transporter ATP-binding protein | В основном в конце и немного в начале | 23660 |
 
-Выравнивание производилось с помощью MUSCLE (3.8):
+Выравнивание производилось с помощью [muscle](https://www.ebi.ac.uk/Tools/msa/muscle/. "MUSCLE 3.8"):
 
 Кластер 1990:
 ![Alt text](/imgs/1990.png?raw=true "Optional Title")
+
 Кластер 1461:
 ![Alt text](/imgs/1461.png?raw=true "Optional Title")
+
 Кластер 1843:
 ![Alt text](/imgs/1843.png?raw=true "Optional Title")
+
 Кластер 127:
 ![Alt text](/imgs/127.png?raw=true "Optional Title")
+
 Кластер 2143:
 ![Alt text](/imgs/2143.png?raw=true "Optional Title")
 
@@ -48,11 +52,15 @@ https://colab.research.google.com/drive/1rkh9LTjdhWXzfEFQ9a0T_ZY32Cw93OEA?usp=sh
 
 Кластер 1990:
 ![Alt text](/imgs/zdna1990.png?raw=true "Optional Title")
+
 Кластер 1461:
 ![Alt text](/imgs/zdna1461.png?raw=true "Optional Title")
+
 Кластер 1843:
 ![Alt text](/imgs/zdna1843.png?raw=true "Optional Title")
+
 Кластер 127:
 ![Alt text](/imgs/zdna127.png?raw=true "Optional Title")
+
 Кластер 2143:
 ![Alt text](/imgs/zdna2143.png?raw=true "Optional Title")
